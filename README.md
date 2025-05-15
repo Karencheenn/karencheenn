@@ -7,9 +7,6 @@
 </p>
 
 ---
-
-### Tech Stack
-
 #### Languages & Tools  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
