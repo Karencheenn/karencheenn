@@ -8,13 +8,6 @@
 
 ---
 
-### About Me
-
-- I'm an undergraduate computer engineering student at **McGill University** with a **minor in Applied AI**  
-- I love combining **hardware & software** to build intelligent systems  
-
----
-
 ### Tech Stack
 
 #### Languages & Tools  
