@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Karen Chen Lai</h1>
+<h1 align="center">Hi there, I'm Karen Chen Lai</h1>
 
 <p align="center">
-Computer Engineering @ McGill University  
-Minor in Applied Artificial Intelligence  
-Passionate about full-stack dev, robotics, and AI models  
+  Computer Engineering @ McGill University<br>
+  Minor in Applied Artificial Intelligence<br>
+  Passionate about full-stack dev, robotics, and AI models
 </p>
 
 ---
@@ -12,7 +12,6 @@ Passionate about full-stack dev, robotics, and AI models
 
 - I'm an undergraduate computer engineering student at **McGill University** with a **minor in Applied AI**  
 - I love combining **hardware & software** to build intelligent systems  
-- Fun fact: I get super excited when building robots that move and think!  
 
 ---
 
@@ -53,22 +52,5 @@ Passionate about full-stack dev, robotics, and AI models
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karencheenn&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karencheenn&layout=compact&theme=radical" width="300"/>
-</p>
-
----
-
-### 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/karen-chen-lai-27b747251)
-- 💌 [Email](mailto:karen.chenlai@mail.mcgill.ca)
-- 🔗 [GitHub](https://github.com/karencheenn)
-
----
-
-> "I believe in engineering that bridges imagination and implementation."  
-> — Karen 💫
+"Sometimes inspiration comes from a spark, sometimes from a smile. Either way, I build."
+— Karen
